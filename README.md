@@ -1,2 +1,2 @@
 # front-end1
-clone yt front page design
+Created a responsive landing page for YouTube from scratch using HTML and CSS.
